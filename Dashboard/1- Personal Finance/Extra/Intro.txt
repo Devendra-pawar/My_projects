@@ -1,0 +1,20 @@
+ power BI project for personal budget and finance management
+
+this is something where you can take your own monthly expenses
+
+excel --> power bi
+
+
+dashboard which can tell you -
+-> What is your net worth? 
+-> Which months are financially bad/good?
+-> Where/how do i Spend?
+-> Where/how do i Save?
+-> what is your spending pattern?
+-> Are you meeting your saving target or not?
+
+
+
+we'll also build tooltips in power BI by which if you you don't have too much like area
+to put all your UI controls you can build additional UI controls and show them
+in form of a tooltip
