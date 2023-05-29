@@ -1,0 +1,34 @@
+write a python code which is going to access the youtube api and then extract the data from youtube 
+will then load this data into a pandas data frame 
+and then analyze it 
+and then do some simple visualization using the seaborn python library 
+
+
+youtube -> pandas -> seaborn 
+
+
+
+steps 
+1- creating youtube API key
+2- documentation for how to use access data (by google)
+  - Google youtube API documentation -- it's a documentation given by google where all the different resources 
+    and methods that can be used to access different data from youtube are mentioned 
+    and also some sample code is also provided. 
+3- Write python code 
+
+
+
+parts - 
+
+1- first part is i'm going to extract the data for channels for some youtube channels 
+   so i'll access their channel name, their total number of videos, total views they have got, 
+   and total subscribers
+   and then we'll try to compare a few channels we'll take few channels and we'll try to
+   compare their data and we'll see how the growth of these channels have been
+
+
+2-the second part we will try to extract
+  all the videos from a particular channel so 
+  we will take all the video data that is their video views the title of the
+  video the total comments they have got likes dislikes etc 
+  and then we'll try to analyze and visualize 
