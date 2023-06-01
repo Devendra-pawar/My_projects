@@ -1,0 +1,9 @@
+-Performed data cleaning and manipulation 
+
+-Performed Exploratory Data Analysis(EDA) using Pandas, Matplotlib and Seaborn Libraries.
+
+-Improved customer experience by identifying potential customers accross 
+     different states, occupation , gender and age group.
+
+-Improved sales by identifying most selling product categories and products, 
+    which can help to plan inventory and hence meet the demands.

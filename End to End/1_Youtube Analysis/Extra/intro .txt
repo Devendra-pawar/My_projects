@@ -24,11 +24,11 @@ parts -
    so i'll access their channel name, their total number of videos, total views they have got, 
    and total subscribers
    and then we'll try to compare a few channels we'll take few channels and we'll try to
-   compare their data and we'll see how the growth of these channels have been
+   compare their data and we'll see how the growth of these channels have been.
 
 
 2-the second part we will try to extract
   all the videos from a particular channel so 
-  we will take all the video data that is their video views the title of the
-  video the total comments they have got likes dislikes etc 
-  and then we'll try to analyze and visualize 
+  we will take all the video data that is their video views, the title of the
+  video, the total comments they have got, likes, dislikes etc 
+  and then we'll try to analyze and visualize. 
