@@ -1,0 +1,4 @@
+Step 1 = Loading the data into Excel
+Step2 - Cleaning and wrangling of data 
+Step 3 - Analysing the data 
+Step 4 - getting insights by charts and dashboards
